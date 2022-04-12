@@ -1,0 +1,35 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(247, 214, 253, 0.637);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#text{
+
+    height: 25px;
+    border-radius: 5px;
+    padding: 4px;
+    border: solid thin #aaa;
+    width: 100%;
+}
+
+#button{
+
+    padding: 10px;
+    width: 100px;
+    color: white;
+    background-color: rgb(121, 36, 143);
+    border: none;
+}
+
+#box{
+
+    background-color: #fff;
+    margin: auto;
+    width: fit-content;
+    padding: 20px;
+}
